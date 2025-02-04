@@ -2,7 +2,7 @@
 ## Meu nome é Luiz Carlos e meu nome de usuário é "HiGuedes"!
 
 - 🔭 Atualmente estou trabalhando em aprimorar meus conhecimentos e me recolocar no mercado de trabalho.
-- 🌱 Atualmente estou aprendendo Iniciante em Programação G8 - ONE
+- 🌱 Atualmente estou estudando na Alura o curso: Iniciante em Programação G8 - ONE - em parceria com a Oracle.
 - 👯 Estou procurando colaborar em projetos Open Source em JavaScript
 - 🤔 Estou procurando ajuda com Python
 - 💬 Pergunte-me sobre vendas, logistica, comunicação e relacionamentos. (Programação ainda estou aprendendo :D)
