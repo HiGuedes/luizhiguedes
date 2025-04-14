@@ -28,7 +28,66 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/>
           
-          
+
+<h1 align="center">Olá! Eu sou o HiGuedes 👋</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/higuedes/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:seu.email@exemplo.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+### 👨‍💻 Sobre mim
+
+Sou um entusiasta de tecnologia que ama aprender e compartilhar conhecimento. Atualmente atuo com [coloque seu foco principal: ex. desenvolvimento web, automações, projetos de dados...]. Busco sempre evoluir minhas habilidades e contribuir com projetos que impactem positivamente a vida das pessoas.
+
+---
+
+### 🚀 Tecnologias e ferramentas que uso
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+  <!-- Adicione outras tecnologias conforme seu stack -->
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HiGuedes&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiGuedes&layout=compact&theme=tokyonight" alt="Top Langs">
+</p>
+
+---
+
+### ✨ Projetos em destaque
+
+- 🔗 [Projeto X](link) - descrição breve
+- 🔗 [Projeto Y](link) - descrição breve
+- 🔗 [FitCristo](link se estiver público) - app para acompanhamento de saúde em grupo
+
+---
+
+### 📫 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/higuedes/)
+- 📧 Email: seu.email@exemplo.com
+
+---
+
+<p align="center">Obrigado por visitar meu perfil 😄</p>
+
           
           
 
