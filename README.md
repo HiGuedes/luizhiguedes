@@ -57,9 +57,7 @@ Sou um entusiasta de tecnologia que ama aprender e compartilhar conhecimento. At
 
 ### ✨ Projetos em destaque
 
-- 🔗 [Projeto X](link) - descrição breve
-- 🔗 [Projeto Y](link) - descrição breve
-- 🔗 [FitCristo]([link](https://github.com/HiGuedes/FitCristo)) - app para acompanhamento de saúde em grupo
+- 🔗 [FitCristo]((https://github.com/HiGuedes/FitCristo)) - app para acompanhamento de saúde em grupo
 
 ---
 
