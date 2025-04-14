@@ -49,11 +49,9 @@ Sou um entusiasta de tecnologia que ama aprender e compartilhar conhecimento. At
 
 <div>
 <a href="https://github.com/higuedes">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higuedes&layout=compact&langs_count=7&theme=Hacker"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=higuedes&show_icons=true&theme=Hacker&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higuedes&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=higuedes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-
-![Snake animation](https://github.com/higuedes/higuedes/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
