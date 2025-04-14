@@ -29,7 +29,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/>
           
 
-<h1 align="center">Olá! Eu sou o HiGuedes 👋</h1>
+<h1 align="center">Olá! Eu sou o Luiz Carlos, e meu nome de usuário é HiGuedes 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/higuedes/" target="_blank">
