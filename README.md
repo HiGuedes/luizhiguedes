@@ -47,10 +47,11 @@ Sou um entusiasta de tecnologia que ama aprender e compartilhar conhecimento. At
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HiGuedes&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiGuedes&layout=compact&theme=tokyonight" alt="Top Langs">
-</p>
+<div>
+<a href="https://github.com/higuedes">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higuedes&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api username=higuedes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ---
 
