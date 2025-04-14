@@ -11,7 +11,7 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+###  👨🏽‍💻 Sobre mim
 
 Sou um entusiasta de tecnologia que ama aprender e compartilhar conhecimento. Atualmente atuo com desenvolvimento web, automações, projetos de dados, desenvolvimento mobile. Busco sempre evoluir minhas habilidades e contribuir com projetos que impactem positivamente a vida das pessoas.
 
