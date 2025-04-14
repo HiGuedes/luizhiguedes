@@ -25,7 +25,7 @@ Sou um entusiasta de tecnologia que ama aprender e compartilhar conhecimento. At
 
 ### 🚀 Tecnologias e ferramentas que uso
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
@@ -36,7 +36,7 @@ Sou um entusiasta de tecnologia que ama aprender e compartilhar conhecimento. At
 </p>
 
 ### Estou aprendendo
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30" alt="React"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="30" alt="Angular"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="30" alt="Python"/> 
@@ -47,7 +47,7 @@ Sou um entusiasta de tecnologia que ama aprender e compartilhar conhecimento. At
 
 ### 📊 GitHub Stats
 
-<div>
+<div align="center">
 <a href="https://github.com/higuedes">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higuedes&layout=compact&langs_count=7&theme=dark"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=higuedes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -63,7 +63,7 @@ Sou um entusiasta de tecnologia que ama aprender e compartilhar conhecimento. At
 
 ### 📫 Contato
 
-<div>
+<div align="center">
 <a href="https://www.youtube.com/@Luiz-Guedes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/luizcguedes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/luizcguedes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
