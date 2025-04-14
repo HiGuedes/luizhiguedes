@@ -17,9 +17,9 @@ Sou um entusiasta de tecnologia que ama aprender e compartilhar conhecimento. At
 
 - 🔭 Trabalhando para aprimorar meus conhecimentos.
 - 🌱 Estudando na Alura o curso: Especialização Back-end - Programa ONE - Oracle Next Education.
-- 👯 Estou procurando colaborar em projetos Open Source em JavaScript
+- 👯 Estou procurando colaborar em projetos Open Source em JavaScript.
 - 💬 Pergunte-me sobre vendas, logistica, comunicação e relacionamentos.
-- ⚡ Curiosidade: Sou casado, tenho 1 filho. Tenho formação em TI, porém minhas experiências profissionais estão na lógistica, vendas e comunicações
+- ⚡ Curiosidade: Sou casado, tenho 1 filho. Tenho formação em TI, e experiências profissionais na lógistica, vendas e comunicações.
 
 ---
 
@@ -52,8 +52,6 @@ Sou um entusiasta de tecnologia que ama aprender e compartilhar conhecimento. At
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higuedes&layout=compact&langs_count=7&theme=dark"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=higuedes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-
-![Snake animation](https://github.com/higuedes/higuedes/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
