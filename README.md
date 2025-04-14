@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Luiz Carlos, e meu nome de usuário é HiGuedes 👋</h1>
+<h1 align="center">Olá! Eu sou o Luiz Carlos 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luizcguedes" target="_blank">
