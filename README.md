@@ -13,15 +13,13 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou um entusiasta de tecnologia que ama aprender e compartilhar conhecimento. Atualmente atuo com [coloque seu foco principal: ex. desenvolvimento web, automações, projetos de dados...]. Busco sempre evoluir minhas habilidades e contribuir com projetos que impactem positivamente a vida das pessoas.
+Sou um entusiasta de tecnologia que ama aprender e compartilhar conhecimento. Atualmente atuo com desenvolvimento web, automações, projetos de dados, desenvolvimento mobile. Busco sempre evoluir minhas habilidades e contribuir com projetos que impactem positivamente a vida das pessoas.
 
-- 🔭 Atualmente estou trabalhando em aprimorar meus conhecimentos e me recolocar no mercado de trabalho.
-- 🌱 Atualmente estou estudando na Alura o curso: Iniciante em Programação G8 - ONE - em parceria com a Oracle.
+- 🔭 Trabalhando para aprimorar meus conhecimentos.
+- 🌱 Estudando na Alura o curso: Especialização Back-end - Programa ONE - Oracle Next Education.
 - 👯 Estou procurando colaborar em projetos Open Source em JavaScript
-- 🤔 Estou procurando ajuda com Python
-- 💬 Pergunte-me sobre vendas, logistica, comunicação e relacionamentos. (Programação ainda estou aprendendo :D)
-- 😄 Pronomes: Ele/dele
-- ⚡ Curiosidade: Sou casado, tenho 1 filho lindo. Tenho formação em TI, porém minhas experiências profissionais estão na lógistica, vendas e comunicações
+- 💬 Pergunte-me sobre vendas, logistica, comunicação e relacionamentos.
+- ⚡ Curiosidade: Sou casado, tenho 1 filho. Tenho formação em TI, porém minhas experiências profissionais estão na lógistica, vendas e comunicações
 
 ---
 
@@ -61,7 +59,7 @@ Sou um entusiasta de tecnologia que ama aprender e compartilhar conhecimento. At
 
 - 🔗 [Projeto X](link) - descrição breve
 - 🔗 [Projeto Y](link) - descrição breve
-- 🔗 [FitCristo](link se estiver público) - app para acompanhamento de saúde em grupo
+- 🔗 [FitCristo]([link](https://github.com/HiGuedes/FitCristo)) - app para acompanhamento de saúde em grupo
 
 ---
 
@@ -71,8 +69,6 @@ Sou um entusiasta de tecnologia que ama aprender e compartilhar conhecimento. At
 <a href="https://www.youtube.com/@Luiz-Guedes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/luizcguedes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/luizcguedes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:luizcarloswebti@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/luizcguedes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>         
 
 ---
